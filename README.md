@@ -1,7 +1,6 @@
 # Open Source Audit: Linux Kernel
 
 Student Name: Vinita Choudhary 
-
 Roll Number: 24BEC10120  
 Course: Open Source Software (Linux Administration)  
 Chosen Software: Linux Kernel  
