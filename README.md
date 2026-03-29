@@ -1,7 +1,7 @@
 # Open Source Audit: Linux Kernel
 
-Student Name: Sandhya Kumari  
-Roll Number:  24BCY10154  
+Student Name: Vinita Choudhary 
+Roll Number:  24BEC10120  
 Course: Open Source Software (Linux Administration)  
 Chosen Software: Linux Kernel  
 
@@ -48,7 +48,7 @@ This project is a comprehensive philosophical and technical audit of the **Linux
 ### Installation
 
 # Clone the repository
-git clone (https://github.com/SANDHYAKUMARI1504/oss-audit-24BCY10154.git)
+git clone 
 
 # Make scripts executable
 chmod +x scripts/*.sh
