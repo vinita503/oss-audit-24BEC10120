@@ -13,8 +13,8 @@ Keyword '[1;33merror[0m' found: [0;31m2[0m times
 [1;33m⚠ 2 error entries found. Review below.[0m
 
 [1;33m--- LAST 10 MATCHING ENTRIES ---[0m
-2026-03-25T17:58:44.965674+00:00 SandhyaPC kernel: RAS: Correctable Errors collector initialized.
-2026-03-25T18:10:42.477297+00:00 SandhyaPC kernel: RAS: Correctable Errors collector initialized.
+2026-03-25T17:58:44.965674+00:00 vinitaPC kernel: RAS: Correctable Errors collector initialized.
+2026-03-25T18:10:42.477297+00:00 vinitaPC kernel: RAS: Correctable Errors collector initialized.
 
 [1;33m--- RECOMMENDATIONS ---[0m
 1. Check hardware: sudo dmesg | grep -i hardware
