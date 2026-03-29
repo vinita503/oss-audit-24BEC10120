@@ -1,0 +1,23 @@
+[0;34m============================================================[0m
+[0;32m         KERNEL DIRECTORY AUDIT REPORT                      [0m
+[0;34m============================================================[0m
+
+[1;33m--- DIRECTORY AUDIT ---[0m
+
+/boot                => drwxr-xr-x root root                => 4.0K
+/proc                => dr-xr-xr-x root root                => Virtual Filesystem
+/sys                 => dr-xr-xr-x root root                => Virtual Filesystem
+/lib/modules         => drwxr-xr-x root root                => 186M
+/usr/src             => drwxr-xr-x root root                => 4.0K
+/etc/modprobe.d      => drwxr-xr-x root root                => 28K
+/etc/modules-load.d  => drwxr-xr-x root root                => 4.0K
+
+[1;33m--- BOOT DIRECTORY DETAILS ---[0m
+Kernel images:
+
+Initramfs images:
+
+[1;33m--- MODULE STATISTICS ---[0m
+  6.6.87.2-microsoft-standard-WSL2: 924 modules
+
+[0;34m============================================================[0m

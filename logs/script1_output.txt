@@ -1,0 +1,39 @@
+[H[2J[3J[0;34m============================================================[0m
+[0;32m         LINUX KERNEL SYSTEM IDENTITY REPORT                [0m
+[0;34m============================================================[0m
+
+[1;33m--- KERNEL INFORMATION ---[0m
+Kernel Version      : [0;32m6.6.87.2-microsoft-standard-WSL2[0m
+Kernel Name         : Linux
+Machine Architecture: x86_64
+Operating System    : GNU/Linux
+
+[1;33m--- DISTRIBUTION INFORMATION ---[0m
+Distribution        : [0;32mUbuntu 24.04.4 LTS[0m
+Hostname            : SandhyaPC
+Current User        : sonu
+Home Directory      : /home/sonu
+
+[1;33m--- SYSTEM STATUS ---[0m
+System Uptime       : 58 minutes
+System Load         :  0.00, 0.00, 0.00
+Current Date/Time   : 2026-03-26 04:33:04
+
+[1;33m--- MEMORY INFORMATION ---[0m
+Total Memory        : 3.7Gi
+Available Memory    : 3.2Gi
+
+[1;33m--- KERNEL BUILD INFO ---[0m
+Build Date          : (gcc (GCC) 11.2.0, GNU
+GCC Version         : Not available
+
+[1;33m--- OPEN SOURCE LICENSE ---[0m
+[0;32mThe Linux Kernel is licensed under GNU General Public License v2 (GPLv2)[0m
+
+The Four Freedoms:
+  1. Freedom to run the program for any purpose
+  2. Freedom to study and modify the source code
+  3. Freedom to redistribute copies
+  4. Freedom to distribute modified versions
+
+[0;34m============================================================[0m

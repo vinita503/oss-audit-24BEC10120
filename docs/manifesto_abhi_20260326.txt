@@ -1,0 +1,53 @@
+============================================================
+              MY OPEN SOURCE MANIFESTO
+         Inspired by the Linux Kernel Community
+============================================================
+
+Date: March 26, 2026
+Author: Sandhya
+System: SandhyaPC
+Kernel: 6.6.87.2-microsoft-standard-WSL2
+
+--- MY OPEN SOURCE PHILOSOPHY ---
+
+Freedom to study, modify, and share software
+
+--- MY DEPENDENCE ON OPEN SOURCE ---
+
+Every day, I rely on 'Linux Kernel, Git, VS Code' and countless other open-source
+tools. These exist because developers chose to share their
+work freely, building on the contributions of others.
+
+--- MY PLEDGE TO THE COMMUNITY ---
+
+The open-source community is 'Collaborative'. I've seen how
+collaboration produces better software than any company
+could build alone.
+
+I commit to building and sharing 'Educational tools for students' freely with the
+world. I will contribute my code, my time, and my knowledge.
+
+--- LESSONS FROM THE KERNEL COMMUNITY ---
+
+From Linus Torvalds and thousands of kernel contributors:
+
+1. "Release early, release often" - Don't wait for perfection
+2. "Given enough eyeballs, all bugs are shallow" - Trust the community
+3. "Talk is cheap. Show me the code" - Let your work speak
+4. "Be nice, don't be a jerk" - Community matters
+
+--- MY COMMITMENT ---
+
+I pledge to:
+• Use open-source software where possible
+• Share my code and knowledge
+• Help newcomers to open source
+• Contribute back to projects I use
+
+I stand on the shoulders of giants - Torvalds, Stallman, and
+thousands of unnamed contributors. I offer my shoulders to
+those who come after me.
+
+============================================================
+Generated on: March 26, 2026
+============================================================
