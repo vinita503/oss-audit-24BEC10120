@@ -48,7 +48,7 @@ This project is a comprehensive philosophical and technical audit of the **Linux
 ### Installation
 
 # Clone the repository
-git clone 
+git clone https://github.com/vinita503/oss-audit-24BEC10120.git
 
 # Make scripts executable
 chmod +x scripts/*.sh
